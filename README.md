@@ -2,6 +2,7 @@
 this is my second demo project
 
 # git command #
+```
 - git init
 - git status
 - git add
@@ -9,3 +10,5 @@ this is my second demo project
 - git log
 - git reset 
 - git reset -- hard
+- git branch new_branch _name
+```
